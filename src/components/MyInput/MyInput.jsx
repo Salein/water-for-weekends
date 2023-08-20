@@ -4,7 +4,7 @@ import './myInput.css'
 
 const MyInput = (props) => {
   return (
-    <input className='neon-input' type='number' min='0' {...props} />
+    <input className='neon-input' {...props} />
   )
 }
 
