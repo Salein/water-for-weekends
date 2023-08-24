@@ -7,7 +7,7 @@
   }
   
   .neon-btn {
-    border: 2px solid greenyellow;
+    border: 1px solid greenyellow;
     background-color: black;
     text-transform: uppercase;
     font-size: 20px;
@@ -16,6 +16,7 @@
     margin-right: 0;
     border-radius: 10px;
     cursor: pointer;
+    box-shadow: 0 0 10px greenyellow
   }
   
   .neon-btn--green {
