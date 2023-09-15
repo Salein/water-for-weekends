@@ -33,8 +33,8 @@ const App = () => {
 
   let checkOne = 10
   let checkTwo = 15
-  let clearOne = Number(clear1 * 0.6)
-  let clearTwo = Number(clear2 * 0.75)
+  let clearOne = Number(clear1 * 0.85)
+  let clearTwo = Number(clear2 * 0.85)
   let clearThree = Number(clear3 * 0.2)
   let clearFour = Number(clear4 * 0.35)
   let clearFive = Number(clear5 * 0.02)
